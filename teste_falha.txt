@@ -1,0 +1,5 @@
+# Script com erros propositais
+
+let vida = 100   # faltou ponto e vírgula
+move northeast steps 3;  # direção inválida
+print "sem fim"

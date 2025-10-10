@@ -1,0 +1,7 @@
+# Script válido de exemplo
+let vida = 100;
+let velocidade = -3.5;
+move north steps 10;
+print "iniciando...";
+move west steps 2;
+print "ok";
