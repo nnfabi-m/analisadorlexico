@@ -45,10 +45,6 @@ teste_sucesso.txt
 teste_falha.txt
 ```
 
-## Link do repositório (substitua pelo seu)
-(https://github.com/nnfabi-m/analisadorlexico)
-
-
 ## Testes rápidos
 ```bash
 # Saída de sucesso
